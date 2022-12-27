@@ -310,6 +310,7 @@ h6 { font-size: 16px;}
 #skills{
 	display: flex;
 	margin:10px;
+	width: 300px;
 	justify-content:left;
 	background-color: var(--previewShadow);
 }
